@@ -1,12 +1,6 @@
 """
 Week 1 Task: Data Acquisition, Cleaning, and Preprocessing
 Dataset: Titanic passenger dataset (Seaborn-data GitHub repository)
-
-Install dependencies:
-    python -m pip install pandas numpy matplotlib requests
-
-Run:
-    python data_cleaning.py
 """
 
 from pathlib import Path
